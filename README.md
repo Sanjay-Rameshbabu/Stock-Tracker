@@ -5,14 +5,20 @@ This is a **Stock Tracker** desktop application built using **Python**, **Custom
 
 ---
 
-🚀 Features
+🚀 **Features**
 
 🧾 Insert, Update, Delete stock transactions
+
 🔍 Search stock records with support for multiple entries
+
 📊 Graphical analysis of profit/loss using Matplotlib
+
 📄 Auto-generated PDF reports of all stock records
+
 💰 Real-time calculation of Total Price and Profit
+
 ✅ Color-coded table for Profit (green) and Loss (red)
+
 🧠 Data validation for dates and numerical fields
 
 ---
